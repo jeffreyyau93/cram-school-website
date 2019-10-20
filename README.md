@@ -1,4 +1,4 @@
-# Cram School　Website
+# Cram School Website
 
 This is a research project I will use to explore certain techniques and layout that exhibit larger amount of data.
 
