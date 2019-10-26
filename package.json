@@ -1,0 +1,20 @@
+{
+  "name": "cram-school-website",
+  "version": "1.0.0",
+  "description": "This is a research project I will use to explore certain techniques and layout that exhibit larger amount of data.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyyau93/cram-school-website.git"
+  },
+  "author": "Jeffrey Yau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffreyyau93/cram-school-website/issues"
+  },
+  "homepage": "https://github.com/jeffreyyau93/cram-school-website#readme"
+}
